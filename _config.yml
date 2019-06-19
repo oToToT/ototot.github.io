@@ -81,4 +81,4 @@ theme: ad
 deploy:
   type: git
   repo: https://github.com/oToToT/oToToT.github.io
-  branch: gh-pages
+  branch: master

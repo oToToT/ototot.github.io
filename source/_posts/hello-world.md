@@ -1,38 +1,11 @@
 ---
-title: Hello World
+title: 各種意義上遲來的第一篇文
+date: 2019-06-19 17:20:33
+tags: 
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+開了這個Blog最主要想法就是想寫點CTF的writeup，當然應該也還是會寫點其他的東西
 
-### Create a new post
+不過如果是OI/ICPC相關的東西應該還是會繼續擺在[Blogger](https://blog.ototot.tk/)，畢竟我也留了一些東西在那裡，如果換地方以後也會有點難找，所以就都會擺在那裡
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+然後這是我第一次用Hexo，感覺還有很多地方可以再搞一搞，有空也想自己寫寫theme，不過我猜以我的性格，這些可能到最後也都只是說說吧XD
