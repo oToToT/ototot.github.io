@@ -1,5 +1,5 @@
 ---
-title: AIS3-2019-pre
+title: AIS3 2019 pre-exam write-up暨迷你心得
 date: 2019-06-19 17:37:57
 tags: CTF, AIS3, write-up
 ---
