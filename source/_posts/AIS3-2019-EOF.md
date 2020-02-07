@@ -894,6 +894,10 @@ IDA開起來看到是一個Treap based的Link/Cut Tree就放棄了w
 
 不過我沒看這題@@
 
+然後周逸表示
+
+> compiler我估計用這個方法就能做掉了 https://ctf-wiki.github.io/ctf-tools/binary_core_tools/instrumentation/intel_pin/
+
 ## Web
 
 這次web看起來都很血腥就沒看了，而且想說splitline的web比我強太多了，除非有看起來很水但他懶得做的我再去看看就好了w
