@@ -1,7 +1,11 @@
 ---
 title: AIS3 2019 EOF 決賽 write-up
 date: 2020-02-06 23:52:32
-tags: AIS3, CTF, write-up
+categories:
+    - write-up
+tags:
+    - AIS3
+    - CTF
 ---
 
 ## 前言
@@ -861,7 +865,7 @@ int strcmp ( const char * str1, const char * str2 ) {
 
 ### Vault
 
-附個檔案 [vault.html](Vault/vault.html), [vault.js](Vault/vault.js), [vault.wasm](Vault/vault.wasm)
+附個檔案 [vault.html](Vault/vault_html), [vault.js](Vault/vault_js), [vault.wasm](Vault/vault_wasm)
 
 splitline做的@@
 
