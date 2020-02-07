@@ -182,6 +182,8 @@ o.sendline('0')
 o.interactive()
 ```
 
+最後FLag: `EOF{I_th1nk_th1s_sh0u1d_b3_m1sc_TT}`
+
 ### Unlucky
 
 題目開起來拿到一個python檔，我們可以nc上去跟他互動
