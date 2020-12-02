@@ -80,5 +80,5 @@ theme: ad
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/oToToT/oToToT.github.io
+  repo: https://github.com/oToToT/ctf-blog
   branch: master
